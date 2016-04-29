@@ -24,8 +24,8 @@ But everything installed via [setuptools](https://pypi.python.org/pypi/setuptool
 ### USAGE
 
   First, register a bot on desired organization/channel here: https://my.slack.com/services/new/bot
-and get its APIKEY. Then grab channel id on slack interface and add the bot to this channel. From
-this point on, you can use it as a python import or a stand-alone messege sender.
+and get its APIKEY. Then grab channel id on slack interface and add the bot to the channel. From
+this point on, you can use it as a python import or a stand-alone message sender.
 
 #### - As a module
 ```
