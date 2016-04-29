@@ -69,5 +69,10 @@ this point on, you can use it as a python import or a stand-alone message sender
 - Use channel name instead of channel ID, consulting API https://slack.com/api/users.list and extracting all channels for organization;
 - create a logging.log()-like interface to write warnings, errors with colors and attachments, to debug applications from a slack channel.
 
+### Tested on
+- Linux raspberrypi 3.10.25+ #622 PREEMPT Fri Jan 3 18:41:00 GMT 2014 armv6l GNU/Linux
+- FreeBSD macabeus 10.2-RELEASE FreeBSD 10.2-RELEASE #0 r286666: Wed Aug 12 15:26:37 UTC 2015 amd64
+- Linux avellgpu 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+
 ### License
 [BSD License](LICENSE).
