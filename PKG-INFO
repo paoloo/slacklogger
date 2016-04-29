@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: slacklogger
+Version: 0.1.5
+Summary: logger/notifier module for slack
+Home-page: github.com/paoloo/slacklogger
+Author: Paolo Oliveira
+Author-email: paolo@fisica.ufc.br
+License: MIT
+Description: UNKNOWN
+Keywords: log,notify,slack
+Platform: UNKNOWN
