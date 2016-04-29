@@ -8,7 +8,7 @@ through a bot to any [Slack](https://slack.com/) channel configured.
 [Slack](https://slack.com/) is a modern real-time messaging platform, similar to IRC,
 but focused on teamwork.
 
-[![BSD License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE.txt)
+[![BSD License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
 ### REQUIREMENTS
 - python 2.7+
@@ -70,4 +70,4 @@ this point on, you can use it as a python import or a stand-alone message sender
 - create a logging.log()-like interface to write warnings, errors with colors and attachments, to debug applications from a slack channel.
 
 ### License
-[BSD License](LICENSE.txt).
+[BSD License](LICENSE).
